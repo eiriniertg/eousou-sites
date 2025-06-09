@@ -9,9 +9,5 @@
 </h1>
 
 <p> EUXARISTOOOOOOOOOOOOOOOOOO KALI SINEXEIAAAA :) </p>
-p, h1 {
-	color: black;
-	border: 2px solid baby pink;
-}
 
  </html>
